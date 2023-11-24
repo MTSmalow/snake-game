@@ -43,7 +43,7 @@ body {
   display: grid;
   background: linear-gradient(#ffffff40 1px, transparent 1px) 0 0,
     linear-gradient(90deg, #ffffff40 1px, transparent 1px) 0 0;
-  background-size: 16.8px 15.7px;
+  background-size: 16.66px 15.7px;
   grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
 
